@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/SQLer/SQler.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 感谢 GitHub Pages 提供的这个平台
+ 
+现在只是初步尝试建立自己的一个页面。
+ 
+接下来将会慢慢补充起来，作为一个稳定的空间。
 
 ### Markdown
 
